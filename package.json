@@ -1,0 +1,23 @@
+{
+  "name": "parse-error",
+  "version": "0.0.1",
+  "description": "Parse error object",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watilde/parse-error.git"
+  },
+  "keywords": [
+    "parse",
+    "error"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/parse-error/issues"
+  },
+  "homepage": "https://github.com/watilde/parse-error"
+}
