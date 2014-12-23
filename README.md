@@ -3,8 +3,15 @@ parse-error
 
 Parse error object in Node
 
+Install
+
+```
+$ npm install --save parse-error
+```
+Use
+
 ```js
-var parseError = require('../lib/main');
+var parseError = require('parse-error');
 
 process.on('uncaughtException', function(e) {
   var data = parseError(e);
