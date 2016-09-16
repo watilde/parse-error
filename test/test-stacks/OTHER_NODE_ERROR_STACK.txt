@@ -1,0 +1,15 @@
+[
+  "TypeError: ",
+  "/home/rondo/projects/parse-error/catch-error.js",
+  "anything is not a function",
+  "    at Object.<anonymous> (/home/test/projects/parse-error/catch-error.js:3:12)",
+  "    at Module._compile (module.js:541:32)",
+  "    at Object.devtoolCompileModule [as .js] (/home/test/.npm-global/lib/node_modules/devtool/lib/require-hook.js:32:14)",
+  "    at Module.load (module.js:456:32)",
+  "    at tryModuleLoad (module.js:415:12)",
+  "    at Function.Module._load (module.js:407:3)",
+  "    at Module.require (module.js:466:17)",
+  "    at require (internal/module.js:20:19)",
+  "    at EventEmitter.<anonymous> (/home/test/.npm-global/lib/node_modules/devtool/lib/preload.js:83:16)",
+  "    at emitOne (events.js:96:13)"
+]

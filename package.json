@@ -19,5 +19,7 @@
   "bugs": {
     "url": "https://github.com/watilde/parse-error/issues"
   },
-  "homepage": "https://github.com/watilde/parse-error"
+  "homepage": "https://github.com/watilde/parse-error",
+  "dependencies": {},
+  "devDependencies": {}
 }

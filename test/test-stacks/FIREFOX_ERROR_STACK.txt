@@ -1,0 +1,5 @@
+[
+  "something@file:///home/test/projects/parse-error/catch-error.js:3:12",
+  "window.onload@file:///home/test/projects/parse-error/catch-error.js:8:11",
+  ""
+]
