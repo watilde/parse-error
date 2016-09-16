@@ -1,4 +1,4 @@
-parse-error
+parse-error [![Build Status](https://travis-ci.org/watilde/parse-error.svg?branch=master)](https://travis-ci.org/watilde/parse-error)
 ===========
 
 Parse error object in Node
